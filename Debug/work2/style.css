@@ -1,0 +1,6 @@
+ ul li:hover{
+    cursor: pointer;
+ }
+ label:hover{
+    cursor: pointer;
+ }
